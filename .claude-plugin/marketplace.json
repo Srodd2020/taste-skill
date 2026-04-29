@@ -15,7 +15,7 @@
       "author": {
         "name": "Leon (upstream: Leonxlnx/taste-skill)"
       },
-      "source": ".",
+      "source": "./plugin",
       "category": "design",
       "homepage": "https://github.com/Leonxlnx/taste-skill",
       "tags": ["design", "frontend", "ui", "ux", "taste", "aesthetic", "skills"]
