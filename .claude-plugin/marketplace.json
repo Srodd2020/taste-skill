@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "taste-skill",
+  "metadata": {
+    "description": "12 design taste skills for AI coding agents — aesthetic presets, redesign helpers, and image-generation references. Forked from Leonxlnx/taste-skill with Cowork-compatible manifests added."
+  },
+  "owner": {
+    "name": "Srodd2020"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill",
+      "description": "12 design skills covering aesthetic presets (brutalist, minimalist, soft), redesign workflows, image-generation references, and anti-pattern enforcement.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Leon (upstream: Leonxlnx/taste-skill)"
+      },
+      "source": ".",
+      "category": "design",
+      "homepage": "https://github.com/Leonxlnx/taste-skill",
+      "tags": ["design", "frontend", "ui", "ux", "taste", "aesthetic", "skills"]
+    }
+  ]
+}
